@@ -2,8 +2,6 @@
 <html>
 <link rel="stylesheet" href="main.css">
 <script type="text/javascript" src="clicked.js"></script>
-<head>
-</head>
 <body>
 <ul>
   <li><a href="#home">HOME</a></li>
