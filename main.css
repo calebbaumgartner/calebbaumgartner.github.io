@@ -81,9 +81,9 @@ body {
 .hero-text {
   text-align: center;
   position: absolute;
-  top: 50%;
+  top: 30%;
   left: 50%;
-  transform: translate(-40%, -50%);
+  transform: translate(-70%, -50%);
   color: white;
 }
 .button {
