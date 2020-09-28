@@ -8,7 +8,7 @@ ul {
 li {
   float: left;
 }
-.hero-image img {
+.logo-image img {
  position: absolute;
  background-color: #800000;
  right: 78px;
@@ -21,7 +21,7 @@ li {
  width: 200px;
  transition-duration: 0.8s;
 }
-.hero-image img:hover {
+.logo-image img:hover {
  background-color: black;
  border-color: #ddd;
 }
