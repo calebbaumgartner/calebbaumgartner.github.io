@@ -78,7 +78,7 @@ body {
   text-align: left;
   position: absolute;
   top: 30%;
-  left: 30%;
+  left: 80%;
   transform: translate(-50%, -50%);
   color: #800000;
 }
@@ -151,8 +151,6 @@ body {
   color: #800000;
 }
 h1 {
-  background-color:#800000;
-  color: #f4eed7;
   font-family: Vladimir Script;
   font-size: 50px;
   text-align: center;
