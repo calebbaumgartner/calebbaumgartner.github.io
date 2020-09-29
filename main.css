@@ -190,6 +190,10 @@ p {
 }
 .footer-last {
   background-color:#800000;
+  padding: 5px;
+  text-align: center;
+  font-family: Calibri;
+  font-weight: Normal;
   left: 0;
   bottom: 0;
   width: 100%;
