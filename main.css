@@ -188,6 +188,7 @@ p {
 .footer {
   background-color: white;
   padding: 5px;
+  position:relative;
 }
 .footer-last {
   background-color:#800000;
