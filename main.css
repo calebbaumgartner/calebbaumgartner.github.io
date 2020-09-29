@@ -182,6 +182,7 @@ p {
 .responsive {
   padding: 15px;
   background-color: black;
+  position:relative;
   float: left;
   width: 24.99999%
 }
