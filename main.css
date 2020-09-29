@@ -182,14 +182,12 @@ p {
 .responsive {
   padding: 15px;
   background-color: black;
-  position:relative;
   float: left;
   width: 24.99999%
 }
 .footer {
   background-color: white;
   padding: 5px;
-  position:relative;
 }
 .footer-last {
   background-color:#800000;
