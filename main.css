@@ -180,14 +180,13 @@ p {
 }
 .footer {
   background-color: white;
- ;
 }
 .footer-last {
   background-color:#800000;
   left: 0;
   bottom: 0;
+  padding: 15px;
   width: 100%;
-  position:fixed
 }
 @media only screen and (max-width: 700px){
   .responsive {
@@ -199,11 +198,6 @@ p {
   .responsive {
     width: 100%;
   }
-}
-.footer:after {
-  content: "";
-  display: table;
-  clear: both;
 }
 .clearfix:after {
   content: "";
