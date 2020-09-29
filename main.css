@@ -68,6 +68,12 @@ body {
   background-color: black;
   margin: 0;
 }
+.chisel-image{
+  background:url(Chisel.jpg) no-repeat center center;
+  background-size: cover;
+  height: 400px;
+  animation: fadin 2s;
+}
 .hero-image {
   background: url(IMG_1090_web.jpg) no-repeat center center; 
   background-size: cover;
