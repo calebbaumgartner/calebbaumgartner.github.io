@@ -169,8 +169,9 @@ p {
   width: 25%;
 }
 .desc {
-  padding: 15px;
+  padding: 5px;
   text-align: center;
+  font-family: Yu Gothic Light;
   color: #800000;
   background-color: white;
 }
