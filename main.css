@@ -74,6 +74,14 @@ body {
   height: 400px;
   animation: fadin 2s;
 }
+.chisel-text {
+  text-align: left;
+  position: absolute;
+  top: 30%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: #800000;
+}
 .hero-image {
   background: url(IMG_1090_web.jpg) no-repeat center center; 
   background-size: cover;
@@ -128,7 +136,10 @@ body {
 }
 .about-text{
   text-align: left;
-  padding: 5px;
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  transform: translate(-50%, -50%);
   color: #800000;
 }
 .welcome-text{
