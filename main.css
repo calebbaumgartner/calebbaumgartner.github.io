@@ -171,7 +171,8 @@ p {
 .desc {
   padding: 5px;
   text-align: center;
-  font-family: Yu Gothic Light;
+  font-family: Calibri;
+  font-weight: Normal;
   color: #800000;
   background-color: white;
 }
