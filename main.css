@@ -187,6 +187,7 @@ p {
 }
 .footer {
   background-color: white;
+  padding: 5px;
 }
 .footer-last {
   background-color:#800000;
