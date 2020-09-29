@@ -77,8 +77,8 @@ body {
 .chisel-text {
   text-align: left;
   position: absolute;
-  top: 30%;
-  left: 80%;
+  top: 80%;
+  left: 20%;
   transform: translate(-50%, -50%);
   color: #800000;
 }
@@ -152,7 +152,7 @@ body {
 }
 h1 {
   font-family: Vladimir Script;
-  font-size: 50px;
+  font-size: 100px;
   text-align: center;
   margin: 0
 }
