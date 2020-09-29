@@ -160,6 +160,10 @@ p {
   width: 100%;
   height: auto;
 }
+.column {
+  float: left;
+  width: 25%;
+}
 .desc {
   padding: 15px;
   text-align: center;
@@ -174,6 +178,14 @@ p {
   float: left;
   width: 24.99999%
 }
+.footer {
+  background-color: white;
+  height: 300px;
+  position:fixed;
+}
+.footer-last {
+  background-color:#800000;
+}
 @media only screen and (max-width: 700px){
   .responsive {
     width: 49.99999%;
@@ -184,6 +196,11 @@ p {
   .responsive {
     width: 100%;
   }
+}
+.footer:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 .clearfix:after {
   content: "";
