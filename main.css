@@ -116,10 +116,20 @@ body {
  border:2px solid black;
  color: black; 
 }
+.about {
+  background-color: white;
+  height: 600px;
+  position: relative;
+}
 .welcome {
   background-color: white;
   height: 300px;
   position: relative;
+}
+.about-text{
+  text-align: left;
+  padding: 5px;
+  color: #800000;
 }
 .welcome-text{
   text-align: center;
