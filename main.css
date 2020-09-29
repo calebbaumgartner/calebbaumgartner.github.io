@@ -75,9 +75,9 @@ body {
   animation: fadin 2s;
 }
 .chisel-text {
-  text-align: left;
+  text-align: center;
   position: absolute;
-  top: 80%;
+  top: 40%;
   left: 20%;
   transform: translate(-50%, -50%);
   color: #800000;
