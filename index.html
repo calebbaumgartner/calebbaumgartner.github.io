@@ -116,5 +116,32 @@
 <div class="footer-last">
   <div class="footer-text">Powered By BAUMSquad</div>
 </div>
+<div id="id01" class="loginform">
+  <form class="loginform-content animate" action="/action_page.php" method="post">
+    <div class="imgcontainer">
+      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Form">&times;</span>
+      <img src="Logo.png" alt="GLIGA" class="avatar">
+    </div>
+
+    <div class="container">
+      <label for="uname"><b>USERNAME</b></label>
+      <input type="text" placeholder="Enter Username" name="uname" required>
+
+      <label for="psw"><b>PASSWORD</b></label>
+      <input type="password" placeholder="Enter Password" name="psw" required>
+        
+      <button type="submit">LOGIN</button>
+      <label>
+        <input type="checkbox" checked="checked" name="remember"> Remember me
+      </label>
+    </div>
+
+    <div class="container" style="background-color:#f4eed7">
+      <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">CANCEL</button>
+      <span class="psw">Forgot <a href="#">password?</a></span>
+    </div>
+  </form>
+</div>
+	    
 </body>
 </html>
