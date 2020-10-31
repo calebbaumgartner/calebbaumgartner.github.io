@@ -228,10 +228,7 @@ p {
   .responsive {
     width: 100%;
   }
-  li {
-    float: none;
-  }
-  .logo_image{
+  .logo-image img{
     display: none;
   }
 }
