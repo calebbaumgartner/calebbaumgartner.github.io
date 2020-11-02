@@ -224,6 +224,7 @@ p {
    li.dropdown {
     display: none;
   }
+}
 @media screen and (max-width: 700px){
   .responsive {
     width: 49.99999%;
