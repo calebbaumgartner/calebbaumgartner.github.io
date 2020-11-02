@@ -231,8 +231,13 @@ p {
   .logo-image img {
     display: none;
   }
+  li {
+    float: none;
+  }
   .hero-image {
     height: 100%;
+    background-size: cover;
+    
   }
   
 }
