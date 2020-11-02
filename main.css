@@ -132,7 +132,7 @@ body {
 .welcome {
   background-color: white;
   height: 300px;
-  position: absolute;
+  position: relative;
 }
 .about-text{
   text-align: left;
