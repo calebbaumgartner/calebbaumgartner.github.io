@@ -231,8 +231,8 @@ p {
   .logo-image img {
     display: none;
   }
-  li {
-    float: none;
+  li.dropdown {
+    display: none;
   }
   .hero-image {
     height: 100%;
