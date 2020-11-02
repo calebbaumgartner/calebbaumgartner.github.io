@@ -224,13 +224,17 @@ p {
     margin: 5px 0;
   }
 }
-@media only screen and (max-width): 500px){
+@media only screen and (max-width: 500px){
   .responsive {
     width: 100%;
   }
   .logo-image img {
     display: none;
   }
+  .hero-image {
+    height: cover;
+  }
+  
 }
 .clearfix:after {
   content: "";
