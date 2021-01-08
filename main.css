@@ -212,6 +212,7 @@ p {
   box-sizing: border-box;
 }
 .responsive {
+  float: left;
   padding: 15px;
   background-color: black;
   width: 24.99999%
@@ -256,6 +257,7 @@ p {
     display:block;
   }
   .responsive {
+    float: none;
     width: 100%;
   }
   .hero-image {
