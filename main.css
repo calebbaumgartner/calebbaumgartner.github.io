@@ -34,6 +34,9 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+.mobile{
+  display: none;
+}
 li a:hover {
   background-color: #111;
 }
@@ -245,6 +248,9 @@ p {
 @media screen and (max-width: 500px){
   li a {
     display: none;
+  }
+  .mobile{
+    display: block;
   }
   li menu {
     display:block;
