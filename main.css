@@ -257,8 +257,12 @@ p {
   }
 }
 @media screen and (max-width: 500px){
+  li {
+    display: none;
+  }
   .topnav {
     display: block;
+  }
   .responsive {
     width: 100%;
   }
