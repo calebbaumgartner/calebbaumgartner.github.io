@@ -34,7 +34,7 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-.mobile{
+a.mobile{
   display: none;
 }
 li a:hover {
