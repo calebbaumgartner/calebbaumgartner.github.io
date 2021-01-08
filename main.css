@@ -230,9 +230,6 @@ p {
   }
 }
 @media screen and (max-width: 500px){
-  li a {
-    display: none;
-  }
   .responsive {
     width: 100%;
   }
@@ -247,6 +244,12 @@ p {
   }
   .welcome-text {
     padding: 5px;
+  }
+  .loginform {
+    padding-top: 0px;
+  }
+  .loginform-content{
+    width:100%;
   }
 }
 .clearfix:after {
