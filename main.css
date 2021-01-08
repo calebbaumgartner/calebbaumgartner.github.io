@@ -378,3 +378,12 @@ span.psw {
      width: 100%;
   }
 }
+@media screen and (max-width: 500px){
+  .loginform {
+    padding-top: 0px;
+    width: 100%;
+  }
+  .loginform-content{
+    width: 100%;
+  }
+}
