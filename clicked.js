@@ -6,3 +6,11 @@ window.onclick = function(event) {
         modal.style.display = "none";
     }
 }
+function mobileTopNav() {
+  var x = document.getElementById("dropmenu");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
