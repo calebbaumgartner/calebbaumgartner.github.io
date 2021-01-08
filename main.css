@@ -238,6 +238,9 @@ p {
   .hero-image {
     height: 400px;
   }
+  .hero-text {
+    margin-top: 0px;
+  }  
   
 }
 .clearfix:after {
