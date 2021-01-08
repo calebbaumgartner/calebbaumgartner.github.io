@@ -241,7 +241,12 @@ p {
   .hero-text {
     margin-top: 0px;
   }  
-  
+  .welcome {
+    height: 350px;
+  }
+  .welcome-text {
+    padding: 5px;
+  }
 }
 .clearfix:after {
   content: "";
