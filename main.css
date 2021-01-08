@@ -230,11 +230,8 @@ p {
   }
 }
 @media screen and (max-width: 500px){
-  li {
+  li a {
     display: none;
-  }
-  .topnav {
-    display: block;
   }
   .responsive {
     width: 100%;
