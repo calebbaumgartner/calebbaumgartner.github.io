@@ -235,6 +235,9 @@ p {
   .responsive {
     width: 100%;
   }
+  .hero-image {
+    height: 400px;
+  }
   
 }
 .clearfix:after {
