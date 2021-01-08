@@ -37,6 +37,18 @@ li a {
 li a:hover {
   background-color: #111;
 }
+li menu {
+  display: none;
+  color: white;
+  font-family: Calibri;
+  font-weight: Normal;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li menu:hover {
+  background-color: #111;
+}
 li.dropdown {
   display: inline-block;
 }
@@ -231,6 +243,12 @@ p {
   }
 }
 @media screen and (max-width: 500px){
+  li a {
+    display: none;
+  }
+  li menu {
+    display:block;
+  }
   .responsive {
     width: 100%;
   }
@@ -245,13 +263,6 @@ p {
   }
   .welcome-text {
     padding: 5px;
-  }
-  .loginform {
-    padding-top: 0px;
-    width: 100%;
-  }
-  .loginform-content{
-    width: 100%;
   }
 }
 .clearfix:after {
