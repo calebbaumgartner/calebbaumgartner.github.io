@@ -246,8 +246,14 @@ p {
   width: 100%;
 }
 @media screen and (max-width: 825px){
-   li.dropdown {
+   li a {
     display: none;
+  }
+  .mobile{
+    display: block;
+  }
+  li menu {
+    display:block;
   }
 }
 @media screen and (max-width: 700px){
@@ -259,12 +265,6 @@ p {
 @media screen and (max-width: 500px){
   li a {
     display: none;
-  }
-  .mobile{
-    display: block;
-  }
-  li menu {
-    display:block;
   }
   .responsive {
     float: none;
