@@ -255,6 +255,9 @@ p {
   li menu {
     display:block;
   }
+  .logo-image {
+    right: 5px;
+  }
 }
 @media screen and (max-width: 700px){
   .responsive {
@@ -263,7 +266,11 @@ p {
   }
 }
 @media screen and (max-width: 500px){
+  
   li a {
+    display: none;
+  }
+  .logo-image {
     display: none;
   }
   .responsive {
