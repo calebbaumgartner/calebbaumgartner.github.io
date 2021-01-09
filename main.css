@@ -257,6 +257,9 @@ p {
   li menu {
     display:block;
   }
+  .logo-image img{
+    display: none;
+  }
 }
 @media screen and (max-width: 700px){
   .responsive {
