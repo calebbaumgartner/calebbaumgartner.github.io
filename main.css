@@ -228,10 +228,12 @@ p {
   width: 24.99999%
 }
 .footer {
-  display: block;
-  position: absolute;
-  background-color: white;
-  padding: 5px;
+  float:left;
+  width:100%;
+}
+.footer ul{
+  color: white;
+  background-color: black;
 }
 .footer-last {
   background-color:#800000;
@@ -244,9 +246,6 @@ p {
   width: 100%;
 }
 @media screen and (max-width: 825px){
-  .logo-image img {
-     display: none;
-  }
    li.dropdown {
     display: none;
   }
