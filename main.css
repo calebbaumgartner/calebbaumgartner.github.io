@@ -234,6 +234,8 @@ p {
 .footer ul{
   color: white;
   background-color: black;
+  display: flex;
+  justify-content: center;
 }
 .footer-last {
   background-color:#800000;
@@ -254,9 +256,6 @@ p {
   }
   li menu {
     display:block;
-  }
-  .logo-image img{
-    right: 5px;
   }
 }
 @media screen and (max-width: 700px){
