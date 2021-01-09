@@ -255,7 +255,7 @@ p {
   li menu {
     display:block;
   }
-  .logo-image {
+  .logo-image img{
     right: 5px;
   }
 }
@@ -270,7 +270,7 @@ p {
   li a {
     display: none;
   }
-  .logo-image {
+  .logo-image img{
     display: none;
   }
   .responsive {
