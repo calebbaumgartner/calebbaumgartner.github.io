@@ -228,7 +228,8 @@ p {
   width: 24.99999%
 }
 .footer {
-  display: none;
+  display: block;
+  position: absolute;
   background-color: white;
   padding: 5px;
 }
