@@ -237,6 +237,12 @@ p {
   display: flex;
   justify-content: center;
 }
+links {
+    display: block;
+    padding: 10px;
+    font-family: Calibri;
+    cursor: pointer;
+}
 .footer-last {
   background-color:#800000;
   padding: 5px;
