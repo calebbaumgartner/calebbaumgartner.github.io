@@ -264,6 +264,7 @@ links {
     display:block;
   }
   .logo-image img{
+    right: 14px;
     width: 150px;
   }
 }
@@ -279,6 +280,7 @@ links {
     display: none;
   }
   .logo-image img{
+    right: 14px;
     width: 100px;
   }
   .responsive {
