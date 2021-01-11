@@ -266,6 +266,9 @@ links {
   .logo-image img{
     right: 14px;
     width: 150px;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
   }
 }
 @media screen and (max-width: 700px){
@@ -282,6 +285,9 @@ links {
   .logo-image img{
     right: 14px;
     width: 100px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
   }
   .responsive {
     float: none;
