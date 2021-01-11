@@ -279,7 +279,7 @@ links {
     display: none;
   }
   .logo-image img{
-    display: none;
+    width: 100px;
   }
   .responsive {
     float: none;
