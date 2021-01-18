@@ -174,8 +174,9 @@ body {
   color: #800000;
 }
 .explore {
-  background-color:black;
-  position: relative;
+  background-color:white;
+  float:left;
+  width 1005;
 }
 .explore-text{
   text-align: center;
