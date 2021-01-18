@@ -259,8 +259,7 @@ links {
   text-align: center;
   font-family: Calibri;
   font-weight: Normal;
-  left: 0;
-  bottom: 0;
+  float: left;
   width: 100%;
 }
 @media screen and (max-width: 825px){
@@ -305,9 +304,6 @@ links {
   .hero-text {
     margin-top: 0px;
   }  
-  .welcome {
-    height: 350px;
-  }
 }
 .clearfix:after {
   content: "";
