@@ -156,6 +156,7 @@ body {
 .welcome {
   background-color: white;
   float:left;
+  width:100%;
 }
 .about-text{
   text-align: left;
