@@ -173,6 +173,17 @@ body {
   width: 100%;
   color: #800000;
 }
+.explore {
+  background-color:black;
+  position: relative;
+}
+.explore-text{
+  text-align: center;
+  position: absolute;
+  padding:14px;
+  width: 100%;
+  color: #800000;
+}
 h1 {
   font-family: Vladimir Script;
   font-size: 120px;
