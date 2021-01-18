@@ -248,7 +248,7 @@ p {
   justify-content: center;
 }
 .footer ul li p{
-  margin: 10,10,14,14; 
+  margin: 10px; 
 }
 links {
     display: block;
